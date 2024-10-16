@@ -1,4 +1,4 @@
-# Curated list.
+# The curated list.
 
 ## Contents
 
